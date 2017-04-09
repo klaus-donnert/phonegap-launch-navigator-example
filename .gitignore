@@ -4,3 +4,6 @@
 /**/.cordova
 /www
 build.json
+/nbproject/private/
+nbproject/project.properties
+nbproject/project.xml
